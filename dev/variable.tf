@@ -1,0 +1,10 @@
+variable "subscription_id" {}
+variable "resource_group" {}
+variable "storage_account" {}
+variable "virtual_network" {}
+variable "subnet" {}
+variable "nsg" {}
+variable "security_rule" {}
+variable "publicip" {}
+variable "virtual_machine" {}
+variable "postgresql" {}
